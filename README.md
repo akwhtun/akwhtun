@@ -10,11 +10,11 @@
 
 - 📄 Know about my experiences [https://aungkyawwaihtun.netlify.app](https://aungkyawwaihtun.netlify.app)
 
-- ⚡ Fun fact **I'm an avid guitar player and have been learning new songs every week for the past year! 🎸🎶**
+- ⚡ Fun fact **The "Undo" shortcut, Ctrl+Z, is a programmer's best friend when correcting mistakes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/aung kyaw wai htun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung kyaw wai htun" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087490458440&mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aung kyaw wai htun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

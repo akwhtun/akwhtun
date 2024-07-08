@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="xablhb09qKV3E0Ei6PUQp7EuRLnQiOV_ZCvLYHgktfE" />
 [![Masterhead](https://img.shields.io/badge/-MASTERHEAD-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akwhtun)
 <h1 align="center">Hi 👋, I'm Aung Kyaw Wai Htun</h1>
 <h3 align="center">A passionate web developer from Myanmar</h3>
